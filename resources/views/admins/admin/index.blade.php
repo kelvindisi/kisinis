@@ -34,5 +34,8 @@
                 </tbody>
             </table>
         </div>
+        <div class="container mb-3 mt-3">
+            {{$admins->links()}}
+        </div>
     </div>
 </x-app-layout>

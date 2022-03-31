@@ -3,7 +3,7 @@
         <div class="container">
             <div class="masthead-subheading">Welcome To Our Family!</div>
             <div class="masthead-heading text-uppercase">The Kisini's</div>
-            <a class="btn btn-primary btn-xl text-uppercase" href="#services">What we love</a>
+            <a class="btn btn-primary btn-xl text-uppercase" href="#services">Our Goals</a>
         </div>
     </header>
      <!-- Services-->
