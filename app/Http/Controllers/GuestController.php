@@ -14,7 +14,7 @@ class GuestController extends Controller
 
     public function gallery()
     {
-        $images = Gallery::all();
+        $images = Gallery::paginate(9);
 
         return view("guest.gallery", ["images" => $images]);
     }

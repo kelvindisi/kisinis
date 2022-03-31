@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Create Admin Account') }}
+            {{ __('Upload to gallery') }}
         </h2>
     </x-slot>
     <div class="container mt-4">

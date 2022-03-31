@@ -39,6 +39,9 @@
                     @endforeach
                 </tbody>
             </table>
+            <div class="container mt-3 mb-3">
+                {{ $images->links() }}
+            </div>
         </div>
     </div>
 </x-app-layout>
