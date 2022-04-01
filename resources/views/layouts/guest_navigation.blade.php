@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-sm fixed-top" role="navigation">
     <div class="container">
-        <a href="{{route('dashboard')}}" class="navbar-brand">Kisini's</a>
+        <a href="{{route('dashboard')}}" class="navbar-brand">Mutua's</a>
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#mainNav">
             <i class="navbar-toggler-icon"></i>
         </button>
